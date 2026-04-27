@@ -1,0 +1,41 @@
+Create a class Student which stores name, marks of 3 subjects and total
+marks of a student. Create an array of student objects to store
+information about 5 students. Write a method to sort students on total
+marks. Write a method int Range(double, double) to count number of 
+students in specified range.
+
+
+Design a class Employee with data members as Employee ID, Name and Salary.
+Design the class in such a way that Employee details cannot be edited 
+through object.
+Provide GET method for getting the value of ID, Name and Salary.
+
+
+The final keyword in java is used to restrict the user. The java final
+keyword can be used in many context. FInal can be:
+    variable
+    method
+    class
+
+Check: If I declare class as final, does the class complete details becomes
+final?
+
+Method Overriding:
+Declaring a method in sub class which is already present in parent
+class is known as method overriding.
+Overriding is done so that a child class can give its own implementation
+to a method which is already provided by the parent class.
+The method in parent class in called overriden method and the method in
+child class is called overriding method.
+
+Rules:
+The method must have the same name as in the parent class.
+The method must have the same parameter as in the parent class.
+There must be an IS-A relationship (inheritance).
+
+if a class is declared as an abstract class, it may or may not have
+abstract method also, it may contain abstract and non-abstract
+methods.
+if a class is declared as an abstract class the methods inside it
+are not neccessary to be abstract but if a method is declared 
+as an abstract the class should be abstract.
